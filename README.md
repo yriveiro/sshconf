@@ -1,4 +1,4 @@
-# sshconf
+# sshconf-generator
 
 Tool to generate .ssh/config file.
 
